@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DzarFlowersApp</string>
+    <string name="box">Корзина</string>
+    <string name="footer_title">Корзина</string>
+    <string name="header_title">Дженбаз Артур Ринатович</string>
+    <string name="total_price">Total Price: %1$d</string>
+    <color name="calar">#fad4ff</color>
+</resources>
